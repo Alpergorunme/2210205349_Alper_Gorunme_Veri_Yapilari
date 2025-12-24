@@ -1,6 +1,6 @@
-# 📚 CS1102: Veri Yapıları ve Algoritmalar Dersi Ödevleri
+# 📚 CS1102: Veri Yapıları Dersi Ödevleri
 
-Bu depo, 2024-2025 Güz dönemi **CS1102: Data Structures and Algorithms** dersi kapsamında hazırlanan laboratuvar ve ödev çalışmalarını içermektedir.
+Bu depo, 2024-2025 Güz dönemi **CS1102: Data Structures** dersi kapsamında hazırlanan ödev çalışmalarını içermektedir.
 
 ---
 
@@ -12,8 +12,6 @@ Bu depo, 2024-2025 Güz dönemi **CS1102: Data Structures and Algorithms** dersi
 ---
 
 ## 🛠️ Ödev İçeriği ve Uygulamalar
-
-Aşağıdaki listede hocamız tarafından istenen 10 temel veri yapısı ve algoritma uygulaması yer almaktadır:
 
 ### 1. Seyrek Matris (Sparse Matrix) Dönüşümü
 * **Açıklama:** Bellek tasarrufu sağlamak amacıyla çoğu elemanı sıfır olan matrislerin sadece anlamlı verilerini tutan yapıya dönüştürülmesi.
