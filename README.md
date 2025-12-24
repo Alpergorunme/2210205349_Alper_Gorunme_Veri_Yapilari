@@ -53,12 +53,4 @@ Bu depo, 2024-2025 Güz dönemi **CS1102: Data Structures** dersi kapsamında ha
 * **Açıklama:** Bir dizi (array) içerisinde verilen verilerin hiyerarşik bir ağaç yapısına dönüştürülmesi.
 * **Dosya:** `10_tree_from_array.c`
 
----
 
-## 🚀 Çalıştırma Notları
-Kodlar **C dili** ile yazılmıştır. Herhangi bir standart C derleyicisi (GCC, Clang vb.) ile derlenip çalıştırılabilir.
-
-```bash
-# Örnek derleme (Linux/Terminal):
-gcc 01_sparse_matrix.c -o sparse_matrix
-./sparse_matrix
